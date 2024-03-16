@@ -10,3 +10,6 @@
 [submodule "react-crud-nodejs"]
 	path = react-crud-nodejs
 	url = https://github.com/jayaprasathjp/react-crud-nodejs.git
+[submodule "react-crud-jsonserver"]
+	path = react-crud-jsonserver
+	url = https://github.com/jayaprasathjp/react-crud-server.git
