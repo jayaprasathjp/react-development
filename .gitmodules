@@ -10,3 +10,6 @@
 [submodule "MERN-crud-atlas"]
 	path = MERN-crud-atlas
 	url = https://github.com/jayaprasathjp/MERN-crud-atlas.git
+[submodule "MERN-crud-localdb"]
+	path = MERN-crud-localdb
+	url = https://github.com/jayaprasathjp/MERN-crud-localdb.git
