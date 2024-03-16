@@ -7,6 +7,6 @@
 [submodule "react-crud-MOCKAPI"]
 	path = react-crud-MOCKAPI
 	url = https://github.com/jayaprasathjp/react-crud-MOCKAPI.git
-[submodule "react-crud-MOCKAPIdsdf"]
-	path = react-crud-MOCKAPIdsdf
-	url = https://github.com/jayaprasathjp/react-crud-MOCKAPI.git
+[submodule "MERN-crud-atlas"]
+	path = MERN-crud-atlas
+	url = https://github.com/jayaprasathjp/MERN-crud-atlas.git
