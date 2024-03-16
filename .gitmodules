@@ -4,3 +4,6 @@
 [submodule "MERN-crud-localdb"]
 	path = MERN-crud-localdb
 	url = https://github.com/jayaprasathjp/MERN-crud-localdb.git
+[submodule "react-crud-MOCKAPI"]
+	path = react-crud-MOCKAPI
+	url = https://github.com/jayaprasathjp/react-crud-MOCKAPI.git
