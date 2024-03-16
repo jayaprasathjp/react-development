@@ -7,3 +7,6 @@
 [submodule "react-crud-MOCKAPI"]
 	path = react-crud-MOCKAPI
 	url = https://github.com/jayaprasathjp/react-crud-MOCKAPI.git
+[submodule "react-crud-nodejs"]
+	path = react-crud-nodejs
+	url = https://github.com/jayaprasathjp/react-crud-nodejs.git
