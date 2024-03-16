@@ -13,3 +13,6 @@
 [submodule "react-crud-jsonserver"]
 	path = react-crud-jsonserver
 	url = https://github.com/jayaprasathjp/react-crud-server.git
+[submodule "react-crud-frontend"]
+	path = react-crud-frontend
+	url = https://github.com/jayaprasathjp/react-crud-frontend.git
