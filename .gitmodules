@@ -1,12 +1,3 @@
-[submodule "react-crud-nodejs"]
-	path = react-crud-nodejs
-	url = https://github.com/jayaprasathjp/react-crud-nodejs.git
-[submodule "react-crud-jsonserver"]
-	path = react-crud-jsonserver
-	url = https://github.com/jayaprasathjp/react-crud-jsonserver.git
-[submodule "react-crud-MOCKAPI"]
-	path = react-crud-MOCKAPI
-	url = https://github.com/jayaprasathjp/react-crud-MOCKAPI.git
 [submodule "MERN-crud-atlas"]
 	path = MERN-crud-atlas
 	url = https://github.com/jayaprasathjp/MERN-crud-atlas.git
